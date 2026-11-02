@@ -1,0 +1,8 @@
+interface:
+  display_name: "作品集设计到 Astro"
+  short_description: "从需求参考、Figma 设计到 Astro 网站交付"
+  brand_color: "#FFFF00"
+  default_prompt: "使用 $figma-portfolio-to-astro，从需求与参考网站分析开始，在 Figma 完成电脑和手机设计，再制作成响应式、可交互的本地 Astro 网站。"
+
+policy:
+  allow_implicit_invocation: true
